@@ -1,0 +1,4 @@
+1)question 
+ans:hello
+2)q2
+and:hi
